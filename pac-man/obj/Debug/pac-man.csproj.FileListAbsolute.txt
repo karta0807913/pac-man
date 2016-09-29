@@ -1,0 +1,9 @@
+c:\users\hatsunemiku\documents\visual studio 2015\Projects\pac-man\pac-man\bin\Debug\pac-man.exe.config
+c:\users\hatsunemiku\documents\visual studio 2015\Projects\pac-man\pac-man\bin\Debug\pac-man.exe
+c:\users\hatsunemiku\documents\visual studio 2015\Projects\pac-man\pac-man\bin\Debug\pac-man.pdb
+c:\users\hatsunemiku\documents\visual studio 2015\Projects\pac-man\pac-man\obj\Debug\pac-man.csprojResolveAssemblyReference.cache
+c:\users\hatsunemiku\documents\visual studio 2015\Projects\pac-man\pac-man\obj\Debug\pac_man.Form1.resources
+c:\users\hatsunemiku\documents\visual studio 2015\Projects\pac-man\pac-man\obj\Debug\pac_man.Properties.Resources.resources
+c:\users\hatsunemiku\documents\visual studio 2015\Projects\pac-man\pac-man\obj\Debug\pac-man.csproj.GenerateResource.Cache
+c:\users\hatsunemiku\documents\visual studio 2015\Projects\pac-man\pac-man\obj\Debug\pac-man.exe
+c:\users\hatsunemiku\documents\visual studio 2015\Projects\pac-man\pac-man\obj\Debug\pac-man.pdb
