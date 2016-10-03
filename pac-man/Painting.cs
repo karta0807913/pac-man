@@ -15,7 +15,7 @@ namespace pac_man
             this.areaSize = areaSize;
         }
 
-        public bool drowObject(GameObject obj)
+        public bool drowObject(GameObject obj) //TODO
         {
             Bitmap tmpBitmap = obj.getImg();
             Point tmpPoint = obj.getPoint();

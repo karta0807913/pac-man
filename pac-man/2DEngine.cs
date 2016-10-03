@@ -28,6 +28,9 @@ namespace pac_man
             this.pictureBox = pictureBox;
             this.areaSize = areaSize;
 
+            picX = picX / areaSize.Width * areaSize.Width;
+            picY = picY / areaSize.Height * areaSize.Height;
+
             painting = new Painting(picX, picY, areaSize);
 
             GB_List = new List<GameObject>();
